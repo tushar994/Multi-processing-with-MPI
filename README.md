@@ -1,8 +1,3 @@
-Team no - 2
-Tushar Jain - 2019101091
-Sabyasachi Mukhopadhyay - 2021801003
-
-
 These were done using the MPI library. Both questions use 4 processors.
 
 
